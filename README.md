@@ -20,3 +20,6 @@ Android plugin for Godot used to access the battery temperature of android devic
    
 5) If you are exporting the project to android remember to enable gradle build otherwise the plugin won't work.
    ![Image of the correct build gradle settings while exporting the project to the Android platform](Screenshots/Screenshot_step_5.png)
+
+
+There is also a demo project avaiable if you want to test the plugin, you can find it in the "Godot Android battery temperature plugin demo project" folder.
