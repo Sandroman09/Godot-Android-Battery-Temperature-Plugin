@@ -11,7 +11,7 @@ This plugin has also a C# version [click here](https://github.com/Sandroman09/Go
    
    ![Image of the plugin activation in Project -> Project settings -> Plugins](Screenshots/Screenshot_step_2.png)
 
-3) Add a new node and select GodotAndroidBatteryTemperature.
+3) Add a new node and select AndroidBatteryTemperature.
 
    ![Image of the GodotAndroidBatteryTemperature node being added](Screenshots/Screenshot_step_3.png)
   
