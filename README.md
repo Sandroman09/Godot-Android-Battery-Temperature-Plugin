@@ -1,4 +1,4 @@
-# Godot-Android-Battery-Temperature-Plugin-4.2
+# Godot-Android-Battery-Temperature-Plugin
 Android plugin for Godot used to access the battery temperature of android devices. It should work on Godot versions 4.2+ but it has only been tested in version 4.5.1 and 4.2
 This plugin has also a C# version [click here](https://github.com/Sandroman09/Godot-Android-Battery-Temperature-Plugin-Csharp)
 
